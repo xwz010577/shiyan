@@ -1,0 +1,15 @@
+
+       .code {
+                       width: 100%;
+                       margin: 0 auto;
+                   }
+       .input-val {
+           width: 63%;
+           background: #ffffff;
+           height: 2.8rem;
+           border-radius: 5px;
+           border: none;
+           border: 1px solid rgba(0,0,0,.2);
+           font-size: 0.9rem;
+       }
+        #canvas {  float: right;  display: inline-block;  border: 1px solid #ccc;  border-radius: 5px;  cursor: pointer;  }
